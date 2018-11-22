@@ -1,0 +1,14 @@
+{
+  "name": "Fran",
+  "version": "1.0.0",
+  "description": "Just an example of Yarn and Browserify",
+  "main": "app.js",
+  "repository": "https://github.com/frannavarrocom",
+  "author": "Fran Navarro",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "jquery": "^3.3.1",
+    "watchify": "^3.11.0"
+  }
+}
